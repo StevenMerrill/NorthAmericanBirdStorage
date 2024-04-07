@@ -1,0 +1,8 @@
+issue,location, resolved
+old_btn_command,MainMenu, False
+new_btn_command,MainMenu, False
+enter_bird command, ExpeditionMenu, False
+enter_bird command, BirdMenu, False
+submit command, BirdMenu, False
+directory issues, FillBirdDB, False
+birdlist, BirdMenu, False
